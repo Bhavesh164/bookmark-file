@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/53812226/define-persistent-abbreviations-in-vim
+https://chat.openai.com/auth/login
+https://stackoverflow.com/questions/65899694/how-to-get-first-word-of-every-line-and-pipe-it-into-dmenu-script
+https://meet.jit.si/bugsbunny
+https://github.com/
+https://linuxconfig.org/how-to-install-pipewire-on-ubuntu-linux
+https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/#you-made-it-15
+https://sebastiandedeyne.com/using-mysql-order-by-while-keeping-one-value-at-the-end/
+https://aggregate.stitcher.io/
